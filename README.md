@@ -25,7 +25,7 @@ flask-app/
 
 1. Clone the repository:
   
-   git clone https://github.com/yourusername/flask-app.git
+   git clone https://github.com/viktor134/First_docker_container
 
 2. Navigate to the project directory:
    cd flask-app
